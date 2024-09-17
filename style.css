@@ -1,6 +1,7 @@
 @font-face {
       font-family: "Germgoth"; 
-      font-display: fallback;
+      font-style: normal;
+    font-display: swap;
       src: url("Germgoth.woff") format("woff"),
            url("Germgoth.woff2") format("woff2"), 
            url("Germgoth.ttf") format("truetype");
